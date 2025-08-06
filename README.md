@@ -126,9 +126,7 @@ Make sure you have Java installed.
 ```bash
 javac src/org/java/basics/BasicPrograms.java
 
-### 🔸 run
-
-```bash
+🔸 Run
 java -cp src org.java.basics.BasicPrograms
 
 Ensure your current directory is the project root.
